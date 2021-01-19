@@ -9,6 +9,7 @@ Estuary Expedition -- an educational game where players will help Eddie the Educ
 Download zip or pull request from Github, Build project and Run ViewR.java.
 Fish are caught until the timer runs out, it will begin to count down when 30 seconds are left. 
 
+![estuary](https://github.com/gblcorella/Estuary-Expedition/blob/master/estuary.gif)
 
 ## Contributors
 Alessio Iccari, Dane Malanoski, Jenny Cox, Gabe Corella, Cara Eppes 
